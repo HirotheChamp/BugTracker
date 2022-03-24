@@ -4,29 +4,42 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import './App.css'
-import Login from './views/Login';
-import Registration from './views/Registration';
 
+import Sidebar from './components/Sidebar';
+
+import Reports from './views/Reports';
+import Messages from './views/Messages';
+import Support from './views/Support';
+import Home from './views/Home';
+import './App.css'
 
     
 function App() {
+ 
   return (
-    
+
     <BrowserRouter>
+     <Sidebar/>
      <Switch>
-        
-        <Route path="/register">
-          <Registration />
-        </Route>
+     {/* <Route path='/register'>
+      <Registration/>
+    </Route>
+    <Route path='/'>
+      <Login/>
+    </Route> */}
     
-       
-        <Route exact path="/">
-          <Login/>
-        </Route>
-        
-        </Switch>
+   
+   
+       <Route path='/' exact component={Home} />  
+        <Route path='/reports' component={Reports}/>
+      <Route path='/messages' component={Messages}/>
+      <Route path='/Support' component={Support}/>
+
+    
+    </Switch>
+
     </BrowserRouter>
+
     
   );
 }
