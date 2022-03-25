@@ -3,4 +3,4 @@
  <h1 align="center">BugTracker</h1>
 
 
-creating a bugtracker through MERN
+<h3>Intuitive project manager app designed for efficiency in organizing bugs in an application</h3>
