@@ -7,7 +7,7 @@
 
 <hr></hr>
 
-## Table of Contents
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
