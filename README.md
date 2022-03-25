@@ -49,7 +49,7 @@
 
 <hr></hr>
 
-## Accknowledgement
+## Acknowledgement
 
 <hr></hr>
 
