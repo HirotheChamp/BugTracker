@@ -12,28 +12,45 @@
 
 <hr></hr>
 
-## Table of Contents
+## General Information
 
 
 <hr></hr>
 
-## Table of Contents
+## Technologies Used
 
 
 <hr></hr>
 
-## Table of Contents
+## Features
 
 
 <hr></hr>
 
-## Table of Contents
+## Screenshots
 
 
 <hr></hr>
 
-## Table of Contents
+## Setup
 
 
 <hr></hr>
-## Table of Contents
+
+## Usage
+
+<hr></hr>
+
+## Project Status
+
+<hr></hr>
+
+## Room for Improvement
+
+<hr></hr>
+
+## Accknowledgement
+
+<hr></hr>
+
+## Contact
