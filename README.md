@@ -78,7 +78,9 @@ This project came through researching what ideas could be of use to Developers w
 
 Created by @HirotheChamp - feel free to contact me at 
 
-[![name](link to image on GH)](link to your URL)
+[![name](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirothechamp/)
 [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-young-173024106/)
+[![name](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KyleYoungins)
+[![name](link to image on GH)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 [Return to Table of Contents](#Table-of-Contents)
