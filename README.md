@@ -4,3 +4,6 @@
 
 
 <h3>Intuitive project manager app designed for efficiency in organizing bugs in an application</h3>
+
+
+##Table of Contents
