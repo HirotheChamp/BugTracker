@@ -1,6 +1,6 @@
 
 <p align="center">
- # BugTracker 
+ #BugTracker 
 </p>
 
 creating a bugtracker through MERN
