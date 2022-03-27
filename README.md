@@ -39,8 +39,9 @@ Organization can be the difference between success and coming up short. For this
 
 ## Technologies Used
 
-* React -- I decided to use React 
-* MongoDB -- 
+* React -- I decided to use React because of its popularity, making it a relatable library to use when developing an application
+* MongoDB -- use to store data in the form of bugs and users created through the application
+* Express -- enables connection to the frontend with minimal approach
 * HTML, CSS, JSON -- used to create front end form creation script
 <hr></hr>
 
