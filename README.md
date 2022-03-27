@@ -23,7 +23,7 @@
 <hr></hr>
 
 ## Background
-
+Organization can be the difference between success and coming up short. For this reason, I decided to create an application that could aid in the success of Developers in the field. BugsyTracker is a user-friendly app that is simple in design to help in field that is very focus-driven. A user can describe a bug whilst also assigning the issue to another member on their team with relative ease.  
 
 
 
@@ -33,7 +33,7 @@
 * Accepts input from developers on which bugs to address in their program
 * Displays all current bugs that have been submitted
 * Users may delete bugs from database after being addressed
-
+* contact support section for questions about the application 
 
 <hr></hr>
 
@@ -70,7 +70,7 @@
 
 ## Acknowledgement
 
-This project came through researching what ideas could be of use to Developers working in the industry
+This project came through researching what ideas could be of use to Developers working in their industry
 
 <hr></hr>
 
