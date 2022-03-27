@@ -66,6 +66,9 @@ Organization can be the difference between success and coming up short. For this
 
 ## Room for Improvement
 
+* I could have tested code more frequently to ensure less mistakes in the future
+* I should be more organized in how I arranged my folders and files
+
 <hr></hr>
 
 ## Acknowledgement
