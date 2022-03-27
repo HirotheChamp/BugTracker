@@ -63,6 +63,8 @@ Organization can be the difference between success and coming up short. For this
 
 ## Project Status
 
+Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front end support page has been created as well.
+
 <hr></hr>
 
 ## Room for Improvement
