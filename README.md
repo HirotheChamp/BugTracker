@@ -1,6 +1,6 @@
 
 
- <h1 align="center">BugTracker</h1>
+ <h1 align="center">BugsyTracker</h1>
 
 
 <h3>Intuitive project manager app designed for efficiency in organizing bugs/issues in an application</h3>
@@ -63,7 +63,7 @@ Organization can be the difference between success and coming up short. For this
 
 ## Project Status
 
-Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front end support page has been created as well.
+Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well.
 
 <hr></hr>
 
