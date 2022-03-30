@@ -34,7 +34,7 @@ Organization can be the difference between success and coming up short. For this
 * Displays all current bugs that have been submitted
 * Users may delete bugs from database after being addressed
 * contact support section for questions about the application 
-
+* Conditional rendering implemented if there are no bugs posted
 <hr></hr>
 
 ## Technologies Used
@@ -82,7 +82,7 @@ This project came through researching what ideas could be of use to Developers w
 
 ## Contact
 
-Created by @HirotheChamp - feel free to contact me at 
+Created by @HirotheChamp - feel free to contact me at:
 
 [![name](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-young-173024106/)
 [![name](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KyleYoungins)
