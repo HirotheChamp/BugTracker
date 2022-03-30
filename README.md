@@ -9,7 +9,7 @@
 
 
 ## Table of Contents
-* [General Info](#background)
+* [Background](#background)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
