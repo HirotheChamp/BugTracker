@@ -49,15 +49,19 @@ Organization can be the difference between success and coming up short. For this
 
 ## Screenshots
 
+N/A
 
 <hr></hr>
 
 ## Setup
 
+N/A
 
 <hr></hr>
 
 ## Usage
+
+N/A
 
 <hr></hr>
 
