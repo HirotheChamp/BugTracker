@@ -1,22 +1,24 @@
 import React, {useEffect, useState} from 'react'
 import axios from 'axios';
-
+import firefly from '../images/firefly.jpg'
 import '../static/css/CurrentBug.css'
 
 
-function CurrentBug() {
+function CurrentBug(posts) {
+  
   const [bugs, setBugs] = useState(null)
 
 const [refresh, setRefresh] = useState(true)
 
 useEffect(()=>{
+ 
   axios.get('http://localhost:8000/api/bug/')
       .then(res=>setBugs(res.data))
       .catch(err => console.error(err))
-},
-
+  
+},);
 // [refresh]
-);
+
 
 const deleteBug = (bugId) => {
   axios.delete('http://localhost:8000/api/bug/' + bugId)
@@ -29,30 +31,32 @@ const deleteBug = (bugId) => {
   return (
     
     <div className='current-bugs'>
-       {   bugs && bugs.map((bug, i)=>(
-        <div className='indv-bug'>
-           <p>
-              <button onClick={(e)=>{deleteBug(bug._id)}}className='close-bug'>Delete Bug</button> 
-              </p>
-            <p>Assigned<span>Username</span></p>
-
-            <p>Priority<span>{bug.priority}</span></p>
-
-            <p>Description </p>
-
-            <p className='description-text'>
-            {bug.description}
-            </p>
-
-            <hr/>
-            
-            
-        </div>
-      
-        )) 
-       }
-    </div>
-    )
+      { bugs && bugs.length == 0 && 
+      <><h2>Waiting for Bugs!</h2>
+      {/* <img src={firefly}></img> */}
+      </>
     }
+       
+         
+            <div className='indv-bug'>
+            { bugs && bugs.map((bug, i)=>(
+               <><p>
+                <button onClick={() => { deleteBug(bug._id); } } className='close-bug delete-button'>Delete Bug</button>
+              </p><p>Assigned<span>{bug.dev}</span></p><p>Priority<span>{bug.priority}</span></p><p>Description </p><p className='description-text'>
+                  {bug.description}
+                </p><hr /></>
+                
+            ))} 
+            </div>
+          
+            
+           
+        </div>
+        
+        );
+      }
+    
+     
+  
 
 export default CurrentBug;

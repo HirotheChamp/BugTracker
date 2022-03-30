@@ -39,7 +39,7 @@ background: #eef4fb;
 
 
 
-
+/* button css */
 .view-button {
 border-radius: 5px;
 background: #fff;
@@ -60,6 +60,25 @@ margin-top: 15px;
     color: #fff;
 }
 
+.delete-button:hover{
+    color: red;
+}
+
+.delete-button {
+    transition: all .5s ease;
+    color: #fff;
+    border: 3px solid rgb(255, 156, 156);
+  
+  
+   
+    line-height: 1;
+    
+   
+    padding: 5px;
+    outline: none;
+    border-radius: 4px;
+}
+/* button css ends */
 .view-selection-div{
     display: flex;
     justify-content: space-between;

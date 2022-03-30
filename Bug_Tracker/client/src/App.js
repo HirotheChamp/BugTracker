@@ -11,7 +11,10 @@ import Reports from './views/Reports';
 import Messages from './views/Messages';
 import Support from './views/Support';
 import Home from './views/Home';
+
 import './App.css'
+
+
 
     
 function App() {
@@ -20,6 +23,7 @@ function App() {
 
     <BrowserRouter>
      <Sidebar/>
+    
      <Switch>
      {/* <Route path='/register'>
       <Registration/>
@@ -28,7 +32,7 @@ function App() {
       <Login/>
     </Route> */}
     
-   
+    
    
        <Route path='/' exact component={Home} />  
         <Route path='/reports' component={Reports}/>
