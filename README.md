@@ -9,9 +9,9 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [General Info](#background)
 * [Features](#features)
+* [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
