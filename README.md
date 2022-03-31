@@ -67,7 +67,8 @@ N/A
 
 ## Project Status
 
-Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well.
+Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well. 
+Trying to implement Chartjs to show a chart of priority of bugs.
 
 <hr></hr>
 
