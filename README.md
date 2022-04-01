@@ -94,4 +94,4 @@ Created by @HirotheChamp - feel free to contact me at:
 [![name](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirothechamp/)
 [![name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyleyoungins94@gmail.com)
 
-[Return to Table of Contents](#Table-of-Contents)
+[[Return to Table of Contents](#Table-of-Contents)]
