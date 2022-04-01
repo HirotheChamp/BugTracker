@@ -61,7 +61,7 @@ N/A
 
 ## Usage
 
-N/A
+May be used in a software developer's workfield to keep a more organized list of issues for his/her team or self. 
 
 <hr></hr>
 
