@@ -3,7 +3,7 @@
  <h1 align="center">BugsyTracker</h1>
 
 
-<h3>Intuitive project manager app designed for efficiency in organizing bugs/issues in an application</h3>
+<h3>Intuitive project manager app designed for efficiency in organizing bugs/issues in the workspace</h3>
 
 <hr></hr>
 
