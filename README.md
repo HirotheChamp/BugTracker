@@ -25,7 +25,7 @@
 ## Background
 Organization can be the difference between success and coming up short. For this reason, I decided to create an application that could aid in the success of Developers in the field. BugsyTracker is a user-friendly app that is simple in design to help in field that is very focus-driven. A user can describe a bug whilst also assigning the issue to another member on their team with relative ease.  
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 
 <hr></hr>
 
@@ -36,7 +36,7 @@ Organization can be the difference between success and coming up short. For this
 * contact support section for questions about the application 
 * Conditional rendering implemented if there are no bugs posted
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 <hr></hr>
 
 ## Technologies Used
@@ -46,7 +46,7 @@ Organization can be the difference between success and coming up short. For this
 * Express -- enables connection to the frontend with minimal approach
 * HTML, CSS, JSON -- used to create front end form creation script
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 <hr></hr>
 
 
@@ -67,7 +67,7 @@ N/A
 
 May be used in a software developer's workfield to keep a more organized list of issues for his/her team or self. 
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 
 <hr></hr>
 
@@ -76,7 +76,7 @@ May be used in a software developer's workfield to keep a more organized list of
 Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well. 
 Trying to implement Chartjs to show a chart of priority of bugs.
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 
 <hr></hr>
 
@@ -85,7 +85,7 @@ Trying to implement Chartjs to show a chart of priority of bugs.
 * I could have tested code more frequently to ensure less mistakes in the future
 * I should be more organized in how I arranged my folders and files
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 
 <hr></hr>
 
@@ -93,7 +93,7 @@ Trying to implement Chartjs to show a chart of priority of bugs.
 
 This project came through researching what ideas could be of use to Developers working in their industry
 
-[[Return to Table of Contents](#Table-of-Contents)]
+
 
 <hr></hr>
 
