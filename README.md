@@ -45,6 +45,7 @@ Organization can be the difference between success and coming up short. For this
 * MongoDB -- use to store data in the form of bugs and users created through the application
 * Express -- enables connection to the frontend with minimal approach
 * HTML, CSS, JSON -- used to create front end form creation script
+* ChartJS -- used for creating charts to display the information from the backend
 
 
 <hr></hr>
