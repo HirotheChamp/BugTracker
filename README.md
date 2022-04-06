@@ -34,6 +34,7 @@ Organization can be the difference between success and coming up short. For this
 * Displays all current bugs that have been submitted
 * Users may delete bugs from database after being addressed
 * contact support section for questions about the application 
+* Using formsubmit.co and axios for submitting a problem or message in customer support
 * Conditional rendering implemented if there are no bugs posted
 
 
