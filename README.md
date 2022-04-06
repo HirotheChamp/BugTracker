@@ -84,8 +84,8 @@ Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is ad
 
 ## Room for Improvement
 
-* I could have tested code more frequently to ensure less mistakes in the future
-* I should be more organized in how I arranged my folders and files
+* Code will be tested more thoroughly to prevent mistakes
+* Files and folders will be labeled and organized far superior in the future
 
 
 
