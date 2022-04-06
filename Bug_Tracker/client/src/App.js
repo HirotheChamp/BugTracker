@@ -13,6 +13,7 @@ import Support from './views/Support';
 import Home from './views/Home';
 
 import './App.css'
+import BarChart from './Charts/BarChart';
 
 
 
