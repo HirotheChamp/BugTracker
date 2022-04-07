@@ -11,7 +11,8 @@ import Reports from './views/Reports';
 import Messages from './views/Messages';
 import Support from './views/Support';
 import Home from './views/Home';
-
+import Login from './views/Login';
+import Registration from './views/Registration';
 import './App.css'
 import BarChart from './Charts/BarChart';
 
@@ -26,12 +27,7 @@ function App() {
      <Sidebar/>
     
      <Switch>
-     {/* <Route path='/register'>
-      <Registration/>
-    </Route>
-    <Route path='/'>
-      <Login/>
-    </Route> */}
+
     
     
    
@@ -40,7 +36,12 @@ function App() {
       <Route path='/messages' component={Messages}/>
       <Route path='/Support' component={Support}/>
 
-    
+      <Route path='/register'>
+      <Registration/>
+    </Route>
+    <Route path='/login'>
+      <Login/>
+    </Route> 
     </Switch>
 
     </BrowserRouter>
