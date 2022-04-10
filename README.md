@@ -7,7 +7,8 @@
 
 <hr></hr>
 
-![bugsytracker snapshot](https://user-images.githubusercontent.com/93508000/162634741-70c7d440-8700-4058-9855-a5e4dc5b9a80.png)
+![bugsy tracker screenshot](https://user-images.githubusercontent.com/93508000/162634858-fbb0e298-a0cf-4e33-b792-dbba068df395.png)
+
 
 
 ## Table of Contents
@@ -55,11 +56,7 @@ Organization can be the difference between success and coming up short. For this
 
 
 
-## Screenshots
 
-N/A
-
-<hr></hr>
 
 ## Setup
 
