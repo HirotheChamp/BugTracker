@@ -7,6 +7,8 @@
 
 <hr></hr>
 
+![bugsytracker snapshot](https://user-images.githubusercontent.com/93508000/162634741-70c7d440-8700-4058-9855-a5e4dc5b9a80.png)
+
 
 ## Table of Contents
 * [Background](#background)
