@@ -91,7 +91,7 @@ Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is ad
 
 ## Acknowledgement
 
-This project came through researching what ideas could be of use to Developers working in their industry
+This project came through researching what ideas could be of use to Developers working in their industry. It was a project recommended to try out by many experienced developers already in the industry.
 
 
 
