@@ -65,7 +65,7 @@ N/A
 
 ## Usage
 
-May be used in a software developer's workfield to keep a more organized list of issues for his/her team or self. 
+May be used in a software developer's workfield to keep a more organized list of issues for his/her team or self. Can assign bugs for personal project as well.
 
 
 
