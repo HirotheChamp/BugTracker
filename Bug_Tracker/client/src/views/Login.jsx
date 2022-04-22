@@ -35,16 +35,16 @@ return (
                     <span></span>
                     <label path="email">Email</label>
                 </div>
-                <errors path="email" class="text-danger" />
+               
                 <div className="txt_field">
                     <input type="password" path="password" required="required" onChange={(e) => setPassword(e.target.value)} value={password}/>
                     <span></span>
                     <label path="password">Password</label>
                 </div>
-                <errors path="password" class="text-danger" />
+             
                 <div className="pass">Forgot Password?</div>
                 <input type="submit" value="Login"/>
-                    <div class="signup_link">
+                    <div className="signup_link">
                         Not a member?<Link to="/register">Sign up</Link>
                     </div>
                     </form>

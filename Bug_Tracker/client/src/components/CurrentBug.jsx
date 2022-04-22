@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react'
 import axios from 'axios';
-import firefly from '../images/firefly.jpg'
+
 import '../static/css/CurrentBug.css'
 
 
@@ -33,7 +33,7 @@ const deleteBug = (bugId) => {
     <div className='current-bugs'>
       { bugs && bugs.length == 0 && 
       <><h2>Waiting for Bugs!</h2>
-      {/* <img src={firefly}></img> */}
+     
       </>
     }
        
@@ -42,7 +42,7 @@ const deleteBug = (bugId) => {
             { bugs && bugs.map((bug, i)=>(
                <><p>
                 <button onClick={() => { deleteBug(bug._id); } } className='close-bug delete-button'>Delete Bug</button>
-              </p><p>Assigned<span>{bug.dev}</span></p><p>Priority<span>{bug.priority}</span></p><p>Description </p><p className='description-text'>
+              </p><p>Assigned:<span>{bug.dev}</span></p><p>Priority:<span>{bug.priority}</span></p><p>Description:</p><p className='description-text'>
                   {bug.description}
                 </p><hr /></>
                 

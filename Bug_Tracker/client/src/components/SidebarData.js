@@ -17,12 +17,7 @@ export const SidebarData=[
         icon:<IoIcons.IoIosPaper/>,
         cName:'nav-text'
      },
-     {
-        title:'Messages',
-        path:'/messages',
-        icon:<FaIcons.FaEnvelopeOpenText/>,
-        cName:'nav-text'
-     },
+     
      {
         title:'Support',
         path:'/support',
