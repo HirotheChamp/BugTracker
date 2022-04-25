@@ -74,7 +74,7 @@ May be used in a software developer's workfield to keep a more organized list of
 ## Project Status
 
 Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well. 
-Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is added to Reports section. information from the database is prevelant on the page but is not rendering into the chart. Register for takes in data to the backened.
+Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is added to Reports section. information from the database is prevelant on the page but is not rendering into the chart. Register page takes in data to the backened. Login still not functional.
 
 
 
