@@ -24,4 +24,10 @@ export const SidebarData=[
         icon:<IoIcons.IoMdHelpCircle/>,
         cName:'nav-text'
      },
+     {
+      title:'Login',
+      path:'/login',
+      icon:<FaIcons.FaUser/>,
+      cName:'nav-text'
+   },
 ]

@@ -11,8 +11,8 @@ import Reports from './views/Reports.jsx';
 
 import Support from './views/Support';
 import Home from './views/Home';
-// import Login from './views/Login';
-// import Registration from './views/Registration';
+import Login from './views/Login';
+import Registration from './views/Registration';
 import './App.css'
 
 
@@ -35,12 +35,12 @@ function App() {
         <Route path='/reports' component={Reports}/>
       <Route path='/Support' component={Support}/>
 
-      {/* <Route path='/register'>
+       <Route path='/register'>
       <Registration/>
     </Route>
     <Route path='/login'>
       <Login/>
-    </Route>  */}
+    </Route>  
     </Switch>
 
     </BrowserRouter>

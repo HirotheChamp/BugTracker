@@ -5,7 +5,8 @@ import * as FaIcons from "react-icons/fa";
 import * as AiIcons from "react-icons/ai";
 import { SidebarData } from './SidebarData';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faUser} from '@fortawesome/free-solid-svg-icons'
+
+import { faUser } from '@fortawesome/free-solid-svg-icons'
 import '../static/css/Sidebar.css'
 import {IconContext} from 'react-icons'
 
@@ -28,10 +29,10 @@ function Sidebar() {
     <FaIcons.FaBars onClick={showSidebar}/>
       </Link>   
       
-      {/* <div className='bug-tracker'>
-        <h1>Bug Tracker</h1>
-    </div> */}
-
+      {/* <a className="active" href="/login">
+      <FontAwesomeIcon className='user-icon' icon={faUser}/>
+      </a> */}
+    
 
       
   </div>

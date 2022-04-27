@@ -8,10 +8,10 @@ module.exports.index = (request, response) => {
 //create
 module.exports.createUser = (request, response) => {
     const {    userName, 
-       email, password, passwordConfirm} = request.body;
+       email, password} = request.body;
     User.create({
         userName, 
-        email, password, passwordConfirm
+        email, password
     })
         .then(newUser => response.json(newUser)) //add validations
         .catch(err => response.status(400).json(err));

@@ -1,9 +1,10 @@
 import React from 'react';
+import BarChart from "../charts/BarChart";
 
 function Reports() {
   return (
     <div className='reports'>
-      <h1>Reports</h1>
+      <BarChart/>
     </div>
   );
 }

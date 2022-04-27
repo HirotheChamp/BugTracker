@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios';
 import { Link, useHistory, useParams} from 'react-router-dom';
+import '../static/css/LoginRegistration.css'
 
 const Login = (props) => {
     const [userName, setUserName]= useState()
@@ -43,7 +44,7 @@ return (
                 </div>
              
                 <div className="pass">Forgot Password?</div>
-                <input type="submit" value="Login"/>
+                <input type="submit" id="completed" value="Login"/>
                     <div className="signup_link">
                         Not a member?<Link to="/register">Sign up</Link>
                     </div>
