@@ -44,11 +44,11 @@ Organization can be the difference between success and coming up short. For this
 
 ## Technologies Used
 
-* React -- Easy to work with framework and library
+* React -- I decided to use React because of its popularity, making it a relatable library to use when developing an application
 * MongoDB -- use to store data in the form of bugs and users created through the application
 * Express -- enables connection to the frontend with minimal approach
 * HTML, CSS, JSON -- used to create front end form creation script
-
+* ChartJS -- used for creating charts to display the information from the backend
 
 
 <hr></hr>
@@ -74,7 +74,7 @@ May be used in a software developer's workfield to keep a more organized list of
 ## Project Status
 
 Bugsy tracker currently has a working form to post bugs. Those bugs can also be deleted from the list. The front-end support page has been created as well. 
-Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is added to Reports section. information from the database is prevelant on the page but is not rendering into the chart. Register page takes in data to the backened. Login still not functional.
+Trying to implement Chartjs to show a chart of priority of bugs. Bar chart is added to Reports section. information from the database is prevelant on the page but is not rendering into the chart. Register for takes in data to the backened.
 
 
 
