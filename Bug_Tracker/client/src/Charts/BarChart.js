@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from 'react'
-import {Chart as ChartJS, BarElement} from 'chart.js';
+import {Chart as ChartJS, BarElement, LinearScale, CategoryScale} from 'chart.js';
 import {Bar} from 'react-chartjs-2';
 import { Chart, registerables } from 'chart.js';
 import axios from 'axios'
 Chart.register(...registerables);
 ChartJS.register(
+    CategoryScale,
+    LinearScale,
     BarElement
 )
 
