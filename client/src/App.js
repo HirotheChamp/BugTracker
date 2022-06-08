@@ -22,7 +22,8 @@ import './App.css'
 function App() {
  
   return (
-
+<div className='App'>
+  <header className='App-header'>{process.env.REACT_APP_MY_API_KEY}</header>
     <BrowserRouter>
      <Sidebar/>
     
@@ -45,7 +46,7 @@ function App() {
 
     </BrowserRouter>
 
-    
+</div>
   );
 }
     
